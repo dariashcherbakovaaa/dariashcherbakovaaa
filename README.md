@@ -1,4 +1,4 @@
-### Hi/Hey/Hello/Buongiorno✌️🖖
+### Hi/Hey/Hello/Buongiorno✌️
 
 I'm Daria (Dasha), Data Science for Econimics student at La Statale with strong background in Sociology and Social research.
 
