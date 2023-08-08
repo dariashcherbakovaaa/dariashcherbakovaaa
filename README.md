@@ -2,7 +2,7 @@
 
 I'm Daria (Dasha), Data Science for Econimics student at La Statale with a strong background in Sociology and Social research.
 
-[***Here***](https://github.com/dariashcherbakovaaa/MA_DSE_Unimi) you can find completed projects during my Master's degree at La Statale
+[****Here****](https://github.com/dariashcherbakovaaa/MA_DSE_Unimi) you can find completed projects during my Master's degree at La Statale
 
 
 
