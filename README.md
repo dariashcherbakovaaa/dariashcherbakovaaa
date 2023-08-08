@@ -4,7 +4,7 @@ I'm Daria (Dasha), Data Science for Econimics student at La Statale with a stron
 
 [****Here****](https://github.com/dariashcherbakovaaa/MA_DSE_Unimi) you can find completed projects during my Master's degree at La Statale
 
-
+I prefer to work with R programming language
 
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)" width="100"/>
